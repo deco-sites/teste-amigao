@@ -55,7 +55,8 @@ import * as $$$$$$47 from "./sections/Product/ShelfWithImage.tsx";
 import * as $$$$$$48 from "./sections/Product/Wishlist.tsx";
 import * as $$$$$$49 from "./sections/Social/InstagramPosts.tsx";
 import * as $$$$$$50 from "./sections/Social/WhatsApp.tsx";
-import * as $$$$$$51 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$51 from "./sections/Teste/Teste.tsx";
+import * as $$$$$$52 from "./sections/Theme/Theme.tsx";
 import * as $$$$$$$$$$$0 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
@@ -121,7 +122,8 @@ const manifest = {
     "deco-sites/teste-amigao/sections/Product/Wishlist.tsx": $$$$$$48,
     "deco-sites/teste-amigao/sections/Social/InstagramPosts.tsx": $$$$$$49,
     "deco-sites/teste-amigao/sections/Social/WhatsApp.tsx": $$$$$$50,
-    "deco-sites/teste-amigao/sections/Theme/Theme.tsx": $$$$$$51,
+    "deco-sites/teste-amigao/sections/Teste/Teste.tsx": $$$$$$51,
+    "deco-sites/teste-amigao/sections/Theme/Theme.tsx": $$$$$$52,
   },
   "apps": {
     "deco-sites/teste-amigao/apps/decohub.ts": $$$$$$$$$$$0,
